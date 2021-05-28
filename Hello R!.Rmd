@@ -1,0 +1,6 @@
+---
+title: "Lab 01 - Hello R!"
+author: "Ayaan Shaikh"
+date: "28/05/2021"
+output: html_document
+---
